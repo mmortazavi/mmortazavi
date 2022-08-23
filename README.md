@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mmortazavi/mmortazavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Who I am?
 - A Senior Key Expert in Machine Learning and Artificial Intelligence based in Berlin.
 - A fromer Computational Research Scientist, engaged with topics like Next-Generation Rechargeable Batteries, Molecular Drug Design etc.
