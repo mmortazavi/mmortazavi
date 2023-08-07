@@ -6,7 +6,7 @@ Who I am?
 
 What I'm doing?
 
-- 🔭 I’m currently working on Machine Learning topcis in Industrial IoT.
+- 🔭 I’m currently working on Machine Learning topics in Industrial IoT.
 - 🌱 I’m currently learning MLOps best-practices, Bayesian Optimization, Unsupervised Image Classification and many more.
 - 👯 I’m looking to collaborate on developing ML models for optimizing production prcoesses, predicting materials properties, supply chain route optimization etc.
 - 💬 Ask me about AI/ML at the producitons (if time allows)
